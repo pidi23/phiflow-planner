@@ -14,4 +14,3 @@ Dann im Browser öffnen: die Konsole zeigt die URL (z. B. http://localhost:5173)
 ## Deploy
 - Vercel/Netlify: Projektordner hochladen → Build Command: `npm run build`, Output: `dist/`.
 
-
